@@ -1,6 +1,7 @@
 {
-	"author" : "Vladyslav Horhulenko",
+	"author": "Vladyslav Horhulenko",
 	"name": "fcc-learn-npm-package-json",
+	"description": "My test node project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
